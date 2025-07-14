@@ -1,0 +1,26 @@
+# 🛒 Indian Store Analysis – Tableau Dashboard
+
+This project presents an end-to-end analysis of an Indian retail store's product and sales data using SQL and Tableau.
+
+## 📊 Dashboard
+
+🔗 **[View the live Tableau Dashboard](https://public.tableau.com/authoring/INDIANSTORETABLEAU/INDIANSTOREANALYSIS#1)**
+
+## 📌 Key Insights:
+- **Top 5 Most Expensive Products** identified for pricing strategy.
+- **Unit Distribution Pie Chart** shows product measurement spread (kg, g, other).
+- **Value by Category Bar Chart** ranks categories by total product value (INR).
+
+## 📁 Tools Used:
+- SQL (for data querying)
+- Tableau Public (for visualization)
+- GitHub (project versioning)
+
+## 🧠 Learnings:
+- How to clean and visualize retail datasets
+- Building dashboards with actionable business insights
+
+---
+
+📌 Project by: Manoj Manish  
+📅 July 2025
