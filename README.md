@@ -20,7 +20,7 @@ This project analyses pricing and forecasting trends in an Indian organic retail
 
 ### 📊 Tableau Dashboard
 
-👉 **[Click here to view interactive Tableau dashboard](https://public.tableau.com/authoring/INDIANSTORETABLEAU/INDIANSTOREANALYSIS#1) 
+👉 **[Click here to view interactive Tableau dashboard](https://public.tableau.com/app/profile/manoj.manish/viz/INDIANSTORETABLEAU/INDIANSTOREANALYSIS) 
 
 ---
 
